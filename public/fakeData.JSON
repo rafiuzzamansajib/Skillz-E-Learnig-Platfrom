@@ -1,0 +1,57 @@
+[
+    {
+      "id": "2xqT6r1v",
+      "name": "Java",
+      "price": 450,
+      "thumnail": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YyUyMHByb2dyYW1taW5nfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": "nTOUH4wW",
+      "name": "C language",
+      "price": 350,
+      "thumnail": "https://images.unsplash.com/photo-1543013309-0d1f4edeb868?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8amF2YXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": "nTOUH584W",
+      "name": "Python",
+      "price": 150,
+      "thumnail": "https://images.unsplash.com/photo-1526379095098-d400fd0bf935?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cHl0aG9ufGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": "1gBiaWK3",
+      "name": "Web Development",
+      "price": 270,
+      "thumnail": "https://images.unsplash.com/photo-1502945015378-0e284ca1a5be?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8d2Vic2l0ZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": "9QNyAxPa",
+      "name": "UI/UX Design",
+      "price": 170,
+      "thumnail": "https://images.unsplash.com/photo-1576595580361-90a855b84b20?ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8dWklMjB1eHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": "iLMJR9iD",
+      "name": "PhotoShop",
+      "price": 95,
+      "thumnail": "https://images.unsplash.com/file-1633060809964-97aed4f6dbeaimage"
+    },
+    {
+      "id": "cQGUgHEk",
+      "name": "Excel",
+      "price": 75,
+      "thumnail": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8ZXhjZWx8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": "IeHGlToC",
+      "name": "Digital Marketing",
+      "price": 135,
+      "thumnail": "https://images.unsplash.com/photo-1557838923-2985c318be48?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8ZGlnaXRhbCUyMG1hcmtldGluZ3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": "C6I2WZXw",
+      "name": "Automation",
+      "price": 380,
+      "thumnail": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YXV0b21hdGlvbnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    }
+
+]

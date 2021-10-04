@@ -1,0 +1,19 @@
+.web-name{
+  color: rgb(8, 129, 241);
+  font-size: 30px;
+  font-weight: 800;
+  margin-right: 650px;
+}
+.nav {
+    margin-right: 20px;
+    font-size: 22px;
+    font-weight: 500;
+    color: rgb(218, 214, 214);
+    cursor: pointer;
+    padding: 5px;
+    text-decoration: none;
+  }
+  .nav:hover {
+    color: rgb(8, 129, 241);
+  }
+  

@@ -1,0 +1,16 @@
+.backgroung-img{
+    background-image: url("https://www.ag5.com/wp-content/uploads/2020/09/Blog62_Header-1000x350.png");
+    height: 450px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1{
+    padding-top: 200px;
+}
+h2{
+    margin: 30px;
+    padding: 20px;
+}
+.text-color{
+    color: rgb(8, 129, 241);
+}
