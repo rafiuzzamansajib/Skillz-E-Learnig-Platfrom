@@ -8,6 +8,11 @@ const Home = () => {
     return (
         <>
             <Header></Header>
+            <div className="backgroung-img">
+                <h1 className="text-center fw-bolder">Change is the end result of True Learning</h1>
+                <p className="text-center fs-5">If you want to learn go beyond your boundaries</p>
+            </div>
+            <h2 className="text-center">Our <span className="text-color">Courses</span></h2>
             <div className="row row-cols-1 row-cols-md-3 g-4 m-5">
                 <div className="col">
                     <div class="card">

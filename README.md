@@ -1,4 +1,16 @@
 # Getting Started Skillz E-learning Platfrom
+live site link https://compassionate-wright-6f1e2e.netlify.app/
+
+# About This Website
+This is a E-learnnin Platfrom.We serve many valuable Skill Devolopment programme.All the 
+courses are very demandable now days
+
+# Courses We Provide
+Our main target makes onek technogoloy side strong.So programming ,Web Devolopment, Ui UX Desig,Digital marketing
+is our main course.Its very intersisting and most valuable course.
+
+# Constact us
+when someones want to enroll any course then he/She need to fill up our contact from .After that we notifiy her/him about the course enrollment procces and more aboout Course. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
