@@ -12,7 +12,7 @@ const Contact = () => {
          <div className="col-md-8">
 
            <div className="card">
-            <h4 className="card-header">Fill The From For More Detalis About Course</h4>
+            <h4 className="card-header">Fill-Up The From For Course Enrollment</h4>
             <div className="card-body">
              <form action="">
 
@@ -31,6 +31,10 @@ const Contact = () => {
                 <div className="form-group">
                     <label className="font-weight-bold">Email:</label>
                     <input className="form-control" type="email" name="email" placeholder="Enter Your Email"/>
+                </div>
+                <div className="form-group">
+                    <label className="font-weight-bold">Course:</label>
+                    <input className="form-control" type="text" name="text" placeholder="Enter Your Favorite Course"/>
                 </div>
 
                 <div className="form-group">
